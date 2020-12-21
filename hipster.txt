@@ -1,2 +1,4 @@
 sometext
 addional line
+new line
+dddd
