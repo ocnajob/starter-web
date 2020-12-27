@@ -9,5 +9,7 @@ This is example is to show different parts of the git repository
 Some text in purpose
 
 ## Deployment
+deployment stuff
 
 ## How to contribute
+text in contribute
