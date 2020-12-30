@@ -13,3 +13,6 @@ deployment stuff
 
 ## How to contribute
 text in contribute
+
+### Copyright
+Copyright
