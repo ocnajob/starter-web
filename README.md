@@ -12,7 +12,7 @@ Some text in purpose
 deployment stuff
 
 ## How to contribute
-text in contribute
+text in contribute ddddddd
 
 ### Copyright
 Copyright
