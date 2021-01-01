@@ -17,4 +17,4 @@ deployment stuff
 text in contribute ddddddd
 
 ### Copyright
-Copyright
+Copyright all right deserved
